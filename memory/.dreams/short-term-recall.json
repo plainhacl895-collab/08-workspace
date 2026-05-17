@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-10T02:48:39.414Z",
+  "entries": {
+    "memory:memory/2026-04-16.md:276:307": {
+      "key": "memory:memory/2026-04-16.md:276:307",
+      "path": "memory/2026-04-16.md",
+      "startLine": 276,
+      "endLine": 307,
+      "source": "memory",
+      "snippet": "- recalls: 0 - status: staged - Candidate: 启动器优化: ✅ 前台启动 Gateway（可见窗口）; ✅ 自动打开浏览器; ✅ 配置自动检测和修复; ✅ 超时保护和重试机制 - confidence: 0.62 - evidence: memory/2026-04-15.md:80-83 - recalls: 0 - status: staged - Candidate: Hermes Agent 修复: **问题**: `AttributeError: 'ChatCompletionMessageFunctionToolCall' object has no attribute 'get'` - confidence: 0.62 - evidence: memory/2026-04-15.md:89-89 - recalls: 0 - status: staged - Candidate: Hermes Agent 修复: **原因**: 代码期望 dict 对象，但实际是 OpenAI SDK 对象 - confidence: 0.62 - evidence: memory/2026-04-15.md:91-91 - recalls: 0 - status: staged - Candidate: Hermes Agent 修复: **修复**: 将 `tc.get(\"id\")` 和 `tc.get(\"function\")` 改为 `getattr(tc, 'id', None",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-10T02:48:39.414Z",
+      "lastRecalledAt": "2026-05-10T02:48:39.414Z",
+      "queryHashes": [
+        "867cbb105773"
+      ],
+      "recallDays": [
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openai",
+        "0.62",
+        "memory/2026-04-15.md",
+        "80-83",
+        "89-89",
+        "91-91",
+        "tc.get"
+      ]
+    },
+    "memory:memory/2026-04-15.md:120:139": {
+      "key": "memory:memory/2026-04-15.md:120:139",
+      "path": "memory/2026-04-15.md",
+      "startLine": 120,
+      "endLine": 139,
+      "source": "memory",
+      "snippet": "workspace/skills/skill-name/ ├── SKILL.md ├── scripts/ │ ├── verify.ps1 │ ├── install.ps1 │ └── test.ps1 ├── references/ └── examples/ ``` --- ## 重要文档 - `~/.openclaw/config/SKILLS_CORRECT_CONFIG.md` - 技能正确配置说明 - `~/.openclaw/config/CONFIG_FIX_SUMMARY.md` - 配置修复总结 - `~/.openclaw/config/STARTUP_FIX_REPORT.md` - 启动修复报告 - `Desktop/启动器使用说明.md` - 启动器使用指南 - `Desktop/Hermes 修复报告.md` - Hermes 修复详细报告",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-10T02:48:39.414Z",
+      "lastRecalledAt": "2026-05-10T02:48:39.414Z",
+      "queryHashes": [
+        "867cbb105773"
+      ],
+      "recallDays": [
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "workspace/skills/skill-name",
+        "skill.md",
+        "verify.ps1",
+        "install.ps1",
+        "test.ps1",
+        "desktop/启动器使用说明.md",
+        "desktop/hermes",
+        "修复报告.md"
+      ]
+    }
+  }
+}

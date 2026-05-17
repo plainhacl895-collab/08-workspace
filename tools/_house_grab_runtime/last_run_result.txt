@@ -1,0 +1,7 @@
+success: False
+started_at: 2026-05-01 08:36:31
+finished_at: 2026-05-01 08:41:07
+message: 阶段 1 抓取（总控重试 2/2） 执行失败，返回码 1
+data_count: 0
+excel_rows: 2821
+current_stage: 阶段 1 抓取

@@ -1,0 +1,28 @@
+12:49:45 [WARNING] 缓存不新鲜，强制解锁 Excel 并刷新
+12:49:50 [INFO] 正在调用高速版 force_build_cache...
+12:49:50 [INFO] 初始化 COM...
+12:49:50 [INFO] 启动 Excel 实例...
+12:49:51 [INFO] 正在打开工作簿...
+12:50:03 [INFO] 工作簿打开成功，开始高速解析...
+12:50:03 [INFO] 解析完成 162 个客户
+12:52:11 [INFO] Bailian API 调用成功（第1次）
+12:53:09 [INFO] Bailian API 调用成功（第1次）
+12:54:02 [INFO] Bailian API 调用成功（第1次）
+12:55:12 [INFO] Bailian API 调用成功（第1次）
+12:56:01 [INFO] Bailian API 调用成功（第1次）
+12:56:52 [INFO] Bailian API 调用成功（第1次）
+12:57:55 [INFO] Bailian API 调用成功（第1次）
+12:58:58 [INFO] Bailian API 调用成功（第1次）
+12:59:53 [INFO] Bailian API 调用成功（第1次）
+13:00:49 [INFO] Bailian API 调用成功（第1次）
+13:01:50 [INFO] Bailian API 调用成功（第1次）
+13:02:41 [INFO] Bailian API 调用成功（第1次）
+13:03:31 [INFO] Bailian API 调用成功（第1次）
+13:04:29 [INFO] Bailian API 调用成功（第1次）
+13:05:25 [INFO] Bailian API 调用成功（第1次）
+13:06:22 [INFO] Bailian API 调用成功（第1次）
+13:07:17 [INFO] Bailian API 调用成功（第1次）
+13:08:18 [INFO] Bailian API 调用成功（第1次）
+13:09:15 [INFO] Bailian API 调用成功（第1次）
+13:10:09 [INFO] Bailian API 调用成功（第1次）
+13:10:21 [INFO] COM 初始化成功 (attempt 1, result=None)

@@ -1,0 +1,30 @@
+{
+  "status": "completed",
+  "stage": "completed",
+  "total_clients": 20,
+  "completed_clients": 20,
+  "failed_clients": 0,
+  "suggestion_rows": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    31,
+    33,
+    37,
+    38,
+    39,
+    41,
+    48,
+    57,
+    62,
+    64,
+    65,
+    83,
+    102,
+    111
+  ],
+  "updated_at": "2026-05-03T09:55:27"
+}

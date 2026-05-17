@@ -1,0 +1,4 @@
+  File "C:\Users\Huawei\.openclaw\workspace\tools\daily_follow_plan_v2.py", line 66
+    VALUABLE_FOLLOWUP_KEYWORDS = ("鏈夊甫鐪?, "鏈夊洖澶?, "閫氱數璇?, "瑙ｈ")
+                                                             ^
+SyntaxError: invalid non-printable character U+E1F0

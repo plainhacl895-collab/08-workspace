@@ -1,0 +1,30 @@
+10:26:46 [WARNING] 缓存不新鲜，强制解锁 Excel 并刷新
+10:26:51 [INFO] 正在调用高速版 force_build_cache...
+10:26:51 [INFO] 初始化 COM...
+10:26:51 [INFO] 启动 Excel 实例...
+10:26:52 [INFO] 正在打开工作簿...
+10:27:03 [INFO] 工作簿打开成功，开始高速解析...
+10:27:05 [INFO] 解析完成 162 个客户
+10:36:55 [ERROR] 缓存刷新失败：(-2146827864, 'OLE error 0x800a01a8', None, None)
+10:37:54 [INFO] Bailian API 调用成功（第1次）
+10:39:00 [INFO] Bailian API 调用成功（第1次）
+10:40:02 [INFO] Bailian API 调用成功（第1次）
+10:40:54 [INFO] Bailian API 调用成功（第1次）
+10:41:53 [INFO] Bailian API 调用成功（第1次）
+10:42:55 [INFO] Bailian API 调用成功（第1次）
+10:43:56 [INFO] Bailian API 调用成功（第1次）
+10:44:55 [INFO] Bailian API 调用成功（第1次）
+10:46:00 [INFO] Bailian API 调用成功（第1次）
+10:47:03 [INFO] Bailian API 调用成功（第1次）
+10:48:15 [INFO] Bailian API 调用成功（第1次）
+10:49:14 [INFO] Bailian API 调用成功（第1次）
+10:50:13 [INFO] Bailian API 调用成功（第1次）
+10:51:10 [INFO] Bailian API 调用成功（第1次）
+10:52:07 [INFO] Bailian API 调用成功（第1次）
+10:53:07 [INFO] Bailian API 调用成功（第1次）
+10:54:22 [INFO] Bailian API 调用成功（第1次）
+10:55:14 [INFO] Bailian API 调用成功（第1次）
+10:56:18 [INFO] Bailian API 调用成功（第1次）
+10:57:21 [INFO] Bailian API 调用成功（第1次）
+10:57:32 [INFO] COM 初始化成功 (attempt 1, result=None)
+10:58:59 [INFO] 批量写入 20 条建议（12-111行范围）

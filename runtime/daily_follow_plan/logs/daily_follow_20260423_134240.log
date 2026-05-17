@@ -1,0 +1,24 @@
+13:42:41 [INFO] 缓存新鲜，直接复用
+13:43:41 [INFO] Bailian API 调用成功（第1次）
+13:44:26 [INFO] Bailian API 调用成功（第1次）
+13:45:44 [INFO] Bailian API 调用成功（第1次）
+13:46:57 [INFO] Bailian API 调用成功（第1次）
+13:48:34 [INFO] Bailian API 调用成功（第1次）
+13:49:41 [INFO] Bailian API 调用成功（第1次）
+13:50:45 [INFO] Bailian API 调用成功（第1次）
+13:51:46 [INFO] Bailian API 调用成功（第1次）
+13:52:54 [INFO] Bailian API 调用成功（第1次）
+13:54:22 [INFO] Bailian API 调用成功（第1次）
+13:55:23 [INFO] Bailian API 调用成功（第1次）
+13:56:19 [INFO] Bailian API 调用成功（第1次）
+13:57:28 [INFO] Bailian API 调用成功（第1次）
+13:58:33 [INFO] Bailian API 调用成功（第1次）
+13:59:37 [INFO] Bailian API 调用成功（第1次）
+14:00:40 [INFO] Bailian API 调用成功（第1次）
+14:01:52 [INFO] Bailian API 调用成功（第1次）
+14:02:55 [INFO] Bailian API 调用成功（第1次）
+14:04:09 [INFO] Bailian API 调用成功（第1次）
+14:05:21 [INFO] Bailian API 调用成功（第1次）
+14:05:37 [INFO] COM 初始化成功 (attempt 1, result=None)
+14:05:38 [INFO] 检测到目标工作簿已在打开状态，自动保存
+14:07:46 [INFO] 批量写入 20 条建议（12-123行范围）

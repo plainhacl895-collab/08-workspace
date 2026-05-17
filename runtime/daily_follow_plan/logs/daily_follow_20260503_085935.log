@@ -1,0 +1,30 @@
+08:59:37 [WARNING] 缓存不新鲜，强制解锁 Excel 并刷新
+08:59:41 [INFO] 正在调用高速版 force_build_cache...
+08:59:41 [INFO] 初始化 COM...
+08:59:41 [INFO] 启动 Excel 实例...
+08:59:43 [INFO] 正在打开工作簿...
+08:59:51 [INFO] 工作簿打开成功，开始高速解析...
+08:59:52 [INFO] 解析完成 162 个客户
+09:00:49 [INFO] Bailian API 调用成功（第1次）
+09:03:59 [ERROR] Bailian API 超时（第1次）: HTTPSConnectionPool(host='coding.dashscope.aliyuncs.com', port=443): Read timed out. (read timeout=180)
+09:03:59 [INFO]     15秒后重试...
+09:06:41 [INFO] Bailian API 调用成功（第2次）
+09:07:41 [INFO] Bailian API 调用成功（第1次）
+09:08:37 [INFO] Bailian API 调用成功（第1次）
+09:09:43 [INFO] Bailian API 调用成功（第1次）
+09:10:39 [INFO] Bailian API 调用成功（第1次）
+09:11:41 [INFO] Bailian API 调用成功（第1次）
+09:12:49 [INFO] Bailian API 调用成功（第1次）
+09:14:18 [INFO] Bailian API 调用成功（第1次）
+09:15:29 [INFO] Bailian API 调用成功（第1次）
+09:16:24 [INFO] Bailian API 调用成功（第1次）
+09:17:16 [INFO] Bailian API 调用成功（第1次）
+09:18:09 [INFO] Bailian API 调用成功（第1次）
+09:19:18 [INFO] Bailian API 调用成功（第1次）
+09:20:06 [INFO] Bailian API 调用成功（第1次）
+09:21:02 [INFO] Bailian API 调用成功（第1次）
+09:21:50 [INFO] Bailian API 调用成功（第1次）
+09:22:38 [INFO] Bailian API 调用成功（第1次）
+09:23:36 [INFO] Bailian API 调用成功（第1次）
+09:24:34 [INFO] Bailian API 调用成功（第1次）
+09:24:45 [INFO] COM 初始化成功 (attempt 1, result=None)

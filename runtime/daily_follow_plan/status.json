@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "stage": "completed",
+  "pid": 13068,
+  "message": "已将已有建议写入 Excel",
+  "written_count": 20,
+  "telegram_sent": false,
+  "excel_written": true,
+  "excel_status": "Excel 建议列第384列，跟进列第385列",
+  "reused_source": "缓存建议包：C:\\Users\\Huawei\\.openclaw\\workspace-tuantuan\\runtime\\daily_follow_plan\\latest_suggestions.json",
+  "updated_at": "2026-05-03T09:55:27"
+}

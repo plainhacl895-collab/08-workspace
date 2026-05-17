@@ -1,0 +1,13 @@
+============================================================
+每日跟进计划生成器 v9.1 - 修复跟进记录过滤
+============================================================
+刷新缓存...
+Traceback (most recent call last):
+  File "C:\Users\Huawei\.openclaw\workspace\tools\daily_follow_plan_v2_jihua.py", line 1431, in <module>
+    main()
+  File "C:\Users\Huawei\.openclaw\workspace\tools\daily_follow_plan_v2_jihua.py", line 1177, in main
+    cache = ensure_cache()
+            ^^^^^^^^^^^^^^
+  File "C:\Users\Huawei\.openclaw\workspace\tools\daily_follow_plan_v2_jihua.py", line 543, in ensure_cache
+    from tuantuan_cli import ensure_cache as shared_ensure_cache
+ModuleNotFoundError: No module named 'tuantuan_cli'

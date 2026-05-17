@@ -1,0 +1,5 @@
+﻿# Chrome cache and large binary files
+tools/ChromeDebugProfile/
+*.zip
+*.exe
+*.dll

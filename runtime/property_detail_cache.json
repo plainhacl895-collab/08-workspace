@@ -1,0 +1,225 @@
+{
+  "107115361446": {
+    "fetched_at": "2026-04-11T12:16:49",
+    "payload": {
+      "command": "property-detail",
+      "house_id": "107115361446",
+      "exit_code": 1,
+      "stdout": "[详情] 开始查询：107115361446\n[详情] 调试端口未就绪，尝试启动专用调试 Chrome\n[详情] 调试启动输出：Starting Chrome with debugger...\nWaiting for Chrome debugger port...\nDEBUG_PORT_READY:9222\nChrome started successfully on port 9222",
+      "stderr": "",
+      "detail_result": {
+        "success": false,
+        "status": "need_login",
+        "message": "请在专用调试 Chrome 窗口扫码登录链家后再试",
+        "query": "107115361446",
+        "house_id": "107115361446",
+        "record": {
+          "house_id": "107115361446",
+          "block_code": "中山公园107115361446",
+          "community_name": "天诚花苑",
+          "district": "长宁",
+          "detail_url": "https://house.link.lianjia.com/housedel/view?housedelCode=107115361446",
+          "source": "data_json",
+          "price": "766",
+          "score": "9.53",
+          "row_number": null
+        },
+        "detail": {
+          "needLogin": true,
+          "url": "https://login.ke.com/login?service=https://house.link.lianjia.com/shiro-cas",
+          "houseId": "107115361446"
+        },
+        "finished_at": "2026-04-11 12:16:48",
+        "text": "请在专用调试 Chrome 窗口扫码登录链家后再试。"
+      },
+      "status": "error",
+      "cache_hit": false
+    }
+  },
+  "107114932717": {
+    "fetched_at": "2026-04-11T12:16:59",
+    "payload": {
+      "command": "property-detail",
+      "house_id": "107114932717",
+      "exit_code": 1,
+      "stdout": "[详情] 开始查询：107114932717",
+      "stderr": "",
+      "detail_result": {
+        "success": false,
+        "status": "need_login",
+        "message": "请在专用调试 Chrome 窗口扫码登录链家后再试",
+        "query": "107114932717",
+        "house_id": "107114932717",
+        "record": {
+          "house_id": "107114932717",
+          "block_code": "中山公园107114932717",
+          "community_name": "长宁88金廷",
+          "district": "长宁",
+          "detail_url": "https://house.link.lianjia.com/housedel/view?housedelCode=107114932717",
+          "source": "data_json",
+          "price": "1150",
+          "score": "8.93",
+          "row_number": null
+        },
+        "detail": {
+          "needLogin": true,
+          "url": "https://login.ke.com/login?service=https://house.link.lianjia.com/shiro-cas",
+          "houseId": "107114932717"
+        },
+        "finished_at": "2026-04-11 12:16:59",
+        "text": "请在专用调试 Chrome 窗口扫码登录链家后再试。"
+      },
+      "status": "error",
+      "cache_hit": false
+    }
+  },
+  "107114916401": {
+    "fetched_at": "2026-04-11T12:17:08",
+    "payload": {
+      "command": "property-detail",
+      "house_id": "107114916401",
+      "exit_code": 1,
+      "stdout": "[详情] 开始查询：107114916401",
+      "stderr": "",
+      "detail_result": {
+        "success": false,
+        "status": "need_login",
+        "message": "请在专用调试 Chrome 窗口扫码登录链家后再试",
+        "query": "107114916401",
+        "house_id": "107114916401",
+        "record": {
+          "house_id": "107114916401",
+          "block_code": "古北107114916401",
+          "community_name": "巴黎花园",
+          "district": "长宁",
+          "detail_url": "https://house.link.lianjia.com/housedel/view?housedelCode=107114916401",
+          "source": "data_json",
+          "price": "798",
+          "score": "8.2",
+          "row_number": null
+        },
+        "detail": {
+          "needLogin": true,
+          "url": "https://login.ke.com/login?service=https://house.link.lianjia.com/shiro-cas",
+          "houseId": "107114916401"
+        },
+        "finished_at": "2026-04-11 12:17:08",
+        "text": "请在专用调试 Chrome 窗口扫码登录链家后再试。"
+      },
+      "status": "error",
+      "cache_hit": false
+    }
+  },
+  "107115375082": {
+    "fetched_at": "2026-04-11T12:17:21",
+    "payload": {
+      "command": "property-detail",
+      "house_id": "107115375082",
+      "exit_code": 0,
+      "stdout": "[详情] 开始查询：107115375082\n[详情] 查询完成：107115375082",
+      "stderr": "",
+      "detail_result": {
+        "success": true,
+        "status": "success",
+        "message": "详情抓取成功",
+        "query": "107115375082",
+        "house_id": "107115375082",
+        "record": {
+          "house_id": "107115375082",
+          "block_code": "天山107115375082",
+          "community_name": "南洋新都",
+          "district": "长宁",
+          "detail_url": "https://house.link.lianjia.com/housedel/view?housedelCode=107115375082",
+          "source": "data_json",
+          "price": "1000",
+          "score": "9.81",
+          "row_number": null
+        },
+        "detail": {
+          "needLogin": false,
+          "title": "南洋新都",
+          "price": "1000万",
+          "unitPrice": "7.86万/平",
+          "floor": "中/13",
+          "area": "127.18平",
+          "district": "长宁",
+          "bizCircle": "天山",
+          "propertyFee": "2.48",
+          "buildingType": "板楼",
+          "buildYear": "2002",
+          "liftRatio": "2梯4户",
+          "parkingRatio": "1:0.8",
+          "parkingFee": "150 (元/月)",
+          "uniqueValue": "唯一",
+          "fullFive": "房本日期，满五",
+          "noParking": "有车位，车位可租赁，150.00元/月",
+          "follow": "",
+          "tags": "南洋新都理想的三房 两卫全明 交通便捷 近二号线 威宁路\n\n南洋新都小区是上海南洋豪森置业有限公司于2001年开发，但是是由上海建工承建的，2003年交房，物业是上房物业经营管理(上海)有限公司，物业费：2.48元。\n\n1、适合刚需小年轻做婚房 ，因为小区房龄新，靠地铁2号线威宁路站，旁边就是缤谷广场，近中山公园、虹桥火车站等商圈，地理位置优越。 2、适合买给父母或者一家三口，小区边上医院、菜场、公园这些配套设施齐，小区住着安静！\n\n美食： 缤谷广场1期、2期各种美食，健身房，汉堡王、KFC、巴黎贝甜、多乐之日、星巴克、Cot等 购物：家乐福、城市朝市、永辉朝市、联华等， 银行：中国银行、工商银行、交通银行、建设银行、浦发银行、上海银行等。 医院(长虹医院 同仁医院 儿童医院\n\n该小区属于地铁2线辐射区域，距离地铁2号线站威宁路300米（百度测量） 较为便利；从威宁路上中环很方便。小区出门位置有多路公交车，出行方便！",
+          "url": "https://house.link.lianjia.com/housedel/view?housedelCode=107115375082",
+          "houseId": "107115375082"
+        },
+        "text": "南洋新都\n查询词：107115375082\n房源编号：107115375082\n详情链接：https://house.link.lianjia.com/housedel/view?housedelCode=107115375082\n\n总价：1000万\n单价：7.86万/平\n楼层：中/13\n面积：127.18平\n\n所在城区：长宁\n所属商圈：天山\n建筑类型：板楼\n建成年代：2002\n物业费：2.48\n梯户比例：2梯4户\n车位比例：1:0.8\n停车服务费：150 (元/月)\n是否唯一：唯一\n房本日期/满五：房本日期，满五\n车位情况：有车位，车位可租赁，150.00元/月\n\n表内板块编号：天山107115375082\n表内小区：南洋新都\n数据来源：data_json\n\n跟进记录：\n无\n\n房源标签/点评：\n南洋新都理想的三房 两卫全明 交通便捷 近二号线 威宁路\n\n南洋新都小区是上海南洋豪森置业有限公司于2001年开发，但是是由上海建工承建的，2003年交房，物业是上房物业经营管理(上海)有限公司，物业费：2.48元。\n\n1、适合刚需小年轻做婚房 ，因为小区房龄新，靠地铁2号线威宁路站，旁边就是缤谷广场，近中山公园、虹桥火车站等商圈，地理位置优越。 2、适合买给父母或者一家三口，小区边上医院、菜场、公园这些配套设施齐，小区住着安静！\n\n美食： 缤谷广场1期、2期各种美食，健身房，汉堡王、KFC、巴黎贝甜、多乐之日、星巴克、Cot等 购物：家乐福、城市朝市、永辉朝市、联华等， 银行：中国银行、工商银行、交通银行、建设银行、浦发银行、上海银行等。 医院(长虹医院 同仁医院 儿童医院\n\n该小区属于地铁2线辐射区域，距离地铁2号线站威宁路300米（百度测量） 较为便利；从威宁路上中环很方便。小区出门位置有多路公交车，出行方便！",
+        "started_at": "2026-04-11 12:17:10",
+        "finished_at": "2026-04-11 12:17:21"
+      },
+      "status": "success",
+      "cache_hit": false
+    }
+  },
+  "107114346936": {
+    "fetched_at": "2026-04-11T12:17:32",
+    "payload": {
+      "command": "property-detail",
+      "house_id": "107114346936",
+      "exit_code": 0,
+      "stdout": "[详情] 开始查询：107114346936\n[详情] 查询完成：107114346936",
+      "stderr": "",
+      "detail_result": {
+        "success": true,
+        "status": "success",
+        "message": "详情抓取成功",
+        "query": "107114346936",
+        "house_id": "107114346936",
+        "record": {
+          "house_id": "107114346936",
+          "block_code": "中山公园107114346936",
+          "community_name": "武夷花园",
+          "district": "长宁",
+          "detail_url": "https://house.link.lianjia.com/housedel/view?housedelCode=107114346936",
+          "source": "data_json",
+          "price": "1098",
+          "score": "8.63",
+          "row_number": null
+        },
+        "detail": {
+          "needLogin": false,
+          "title": "武夷花园",
+          "price": "1098万",
+          "unitPrice": "7.91万/平",
+          "floor": "高/20",
+          "area": "138.78平",
+          "district": "长宁",
+          "bizCircle": "中山公园",
+          "propertyFee": "2.0",
+          "buildingType": "板楼",
+          "buildYear": "2002",
+          "liftRatio": "2梯4户",
+          "parkingRatio": "1:0.3",
+          "parkingFee": "150",
+          "uniqueValue": "不唯一",
+          "fullFive": "房本日期，满五",
+          "noParking": "无车位",
+          "follow": "",
+          "tags": "高区次顶楼视野采光好，二手买进一套税少建在公园里的小区\n\n此房所在小区是2002年新建商品房社区，小区内楼间距大，绿化好，带有小区花园，每天有保安巡逻，安全舒适，小区内有地上地下停车位，车位充足，后门直达天山公园，刷卡入园，饭后散步休闲一步到位，天然氧吧后花园\n\n本房适合家庭居住，全明户型。小区南边是天山公园，业主可以刷卡进出，饭后散步休闲一步到位\n\n户型为全明户型，主房朝南，两个次卧房朝北，厅南北错通，电梯次顶楼，两梯三户\n\n小区近来福士、龙之梦购物广场，有中山公园、天山公园、海粟绿地，华山医院、天山中医院、长妇幼保健院等配套，三轨交汇，出行便利。\n\n三条地铁穿插而过，2号线贯穿上海东西两座机场，3号线贯穿南北两座火车站，4号线为环线换乘其他地铁线路方便，出门左转就是内环高架进口，出门右转上延安高架",
+          "url": "https://house.link.lianjia.com/housedel/view?housedelCode=107114346936",
+          "houseId": "107114346936"
+        },
+        "text": "武夷花园\n查询词：107114346936\n房源编号：107114346936\n详情链接：https://house.link.lianjia.com/housedel/view?housedelCode=107114346936\n\n总价：1098万\n单价：7.91万/平\n楼层：高/20\n面积：138.78平\n\n所在城区：长宁\n所属商圈：中山公园\n建筑类型：板楼\n建成年代：2002\n物业费：2.0\n梯户比例：2梯4户\n车位比例：1:0.3\n停车服务费：150\n是否唯一：不唯一\n房本日期/满五：房本日期，满五\n车位情况：无车位\n\n表内板块编号：中山公园107114346936\n表内小区：武夷花园\n数据来源：data_json\n\n跟进记录：\n无\n\n房源标签/点评：\n高区次顶楼视野采光好，二手买进一套税少建在公园里的小区\n\n此房所在小区是2002年新建商品房社区，小区内楼间距大，绿化好，带有小区花园，每天有保安巡逻，安全舒适，小区内有地上地下停车位，车位充足，后门直达天山公园，刷卡入园，饭后散步休闲一步到位，天然氧吧后花园\n\n本房适合家庭居住，全明户型。小区南边是天山公园，业主可以刷卡进出，饭后散步休闲一步到位\n\n户型为全明户型，主房朝南，两个次卧房朝北，厅南北错通，电梯次顶楼，两梯三户\n\n小区近来福士、龙之梦购物广场，有中山公园、天山公园、海粟绿地，华山医院、天山中医院、长妇幼保健院等配套，三轨交汇，出行便利。\n\n三条地铁穿插而过，2号线贯穿上海东西两座机场，3号线贯穿南北两座火车站，4号线为环线换乘其他地铁线路方便，出门左转就是内环高架进口，出门右转上延安高架",
+        "started_at": "2026-04-11 12:17:22",
+        "finished_at": "2026-04-11 12:17:32"
+      },
+      "status": "success",
+      "cache_hit": false
+    }
+  }
+}
